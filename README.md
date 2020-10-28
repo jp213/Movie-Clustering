@@ -1,6 +1,10 @@
 # Movie-Clustering
-Movie clustering / recommender system (unsupervised learning)
+Thinkful Unsupervised Learning Capstone
 
-This research project was completed for Thinkful's Data Science Flex program as an Unsupervised Learning Capstone. The models, in essence, are the basis of movie recommender systems.
+This is my unsupervised learning research project for Thinkful's Data Science Flex boot camp. The models, in essence, are the basis of movie recommender systems.
+
+Research Goals:
+1. Identify similar movies based on movie characteristics.
+2. Choose a preferred model based on feature selection, dimensionality reduction, and clustering algorithm.
 
 Cluster visualization and analysis requires extensive plotting, much of it in 3-D. Cell outputs had to be cleared to prevent exceeding GitHub's file size limit. Please be sure to install any requisite libraries before running this notebook.
