@@ -1,7 +1,7 @@
 # Movie Clustering
 Thinkful Unsupervised Learning Capstone
 
-This is my unsupervised learning research project for Thinkful's Data Science Flex boot camp. The models, in essence, are the basis of movie recommender systems.
+This is my unsupervised learning research project for Thinkful's Data Science program camp. The models, in essence, are the basis of movie recommender systems.
 
 Research Goals:
 1. Identify similar movies based on movie characteristics.
